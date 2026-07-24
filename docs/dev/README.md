@@ -9,6 +9,7 @@
 - [SSE scalability load report](./api/sse-scalability-load-report.md)
 - [Async local storage](./api/async-local-storage.md)
 - [Environment variables & services](./api/env.md)
+- [Rate limiting plan](./api/rate-limiting-plan.md)
 
 ## Website
 
